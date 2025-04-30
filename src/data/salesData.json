@@ -1,0 +1,54 @@
+{
+  "Alimento": {
+    "Fruta": {
+      "MarcaFruta1": [50, 80, 60, 40],
+      "MarcaFruta2": [103, 150, 60, 30],
+      "MarcaFruta3": [90, 120, 70, 55]
+    },
+    "Verdura": {
+      "MarcaVerdura1": [70, 60, 50, 30],
+      "MarcaVerdura2": [85, 75, 65, 45]
+    },
+    "Laticínio": {
+      "MarcaLaticinio1": [110, 95, 85, 70],
+      "MarcaLaticinio2": [95, 90, 80, 60]
+    }
+  },
+
+  "Bebida": {
+    "Suco": {
+      "MarcaSuco1": [120, 110, 90, 85],
+      "MarcaSuco2": [90, 80, 70, 50]
+    },
+    "Refrigerante": {
+      "MarcaRefri1": [130, 140, 125, 115],
+      "MarcaRefri2": [98, 105, 95, 88]
+    },
+    "Água": {
+      "MarcaAgua1": [200, 190, 210, 205],
+      "MarcaAgua2": [180, 175, 185, 190]
+    }
+  },
+
+  "Eletrônico": {
+    "Celular": {
+      "MarcaCelular1": [300, 280, 260, 240],
+      "MarcaCelular2": [250, 260, 270, 265]
+    },
+    "Notebook": {
+      "MarcaNotebook1": [150, 160, 140, 130],
+      "MarcaNotebook2": [170, 165, 155, 150]
+    }
+  },
+
+  "Vestuário": {
+    "Camiseta": {
+      "MarcaCamiseta1": [60, 55, 50, 45],
+      "MarcaCamiseta2": [75, 70, 65, 60]
+    },
+    "Sapato": {
+      "MarcaSapato1": [90, 85, 80, 75],
+      "MarcaSapato2": [110, 105, 100, 95]
+    }
+  }
+}
