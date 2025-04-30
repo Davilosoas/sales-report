@@ -19,7 +19,6 @@ Este é um projeto React com gráfico interativo de vendas baseado em três sele
 - JavaScript
 
 ## 📁 Estrutura básica
-```
 
 /sales-report
 ├── public/
@@ -34,13 +33,11 @@ Este é um projeto React com gráfico interativo de vendas baseado em três sele
 │ └── index.css
 └── README.md
 
-````
-
 ## ▶️ Como rodar o projeto
 
-```bash
+bash
 npm install
 npm start
-````
 
 Acesse [http://localhost:3000](http://localhost:3000) no navegador.
+```
